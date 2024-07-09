@@ -127,7 +127,7 @@ body {
 
 }
 
-@media (prefers-color-scheme: light) {
+@media  {
     body, body.overlay{
         --background-menu: #AA4847;
         --background: color-mix(in srgb, var(--theme-color) 0%,#eae6dc);
